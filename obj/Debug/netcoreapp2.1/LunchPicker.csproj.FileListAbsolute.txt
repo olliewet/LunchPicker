@@ -1,0 +1,11 @@
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\bin\Debug\netcoreapp2.1\LunchPicker.deps.json
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\bin\Debug\netcoreapp2.1\LunchPicker.runtimeconfig.json
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\bin\Debug\netcoreapp2.1\LunchPicker.runtimeconfig.dev.json
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\bin\Debug\netcoreapp2.1\LunchPicker.dll
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\bin\Debug\netcoreapp2.1\LunchPicker.pdb
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\obj\Debug\netcoreapp2.1\LunchPicker.csprojAssemblyReference.cache
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\obj\Debug\netcoreapp2.1\LunchPicker.csproj.CoreCompileInputs.cache
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\obj\Debug\netcoreapp2.1\LunchPicker.AssemblyInfoInputs.cache
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\obj\Debug\netcoreapp2.1\LunchPicker.AssemblyInfo.cs
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\obj\Debug\netcoreapp2.1\LunchPicker.dll
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\obj\Debug\netcoreapp2.1\LunchPicker.pdb
