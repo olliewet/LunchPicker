@@ -9,3 +9,4 @@ C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\obj\Debug\netcoreapp2.1\LunchPick
 C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\obj\Debug\netcoreapp2.1\LunchPicker.AssemblyInfo.cs
 C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\obj\Debug\netcoreapp2.1\LunchPicker.dll
 C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\obj\Debug\netcoreapp2.1\LunchPicker.pdb
+C:\Users\Ollie\Desktop\Work\Udemey\LunchPicker\obj\Debug\netcoreapp2.1\LunchPicker.genruntimeconfig.cache
